@@ -60,3 +60,5 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+In this statistics calculator project, I gained experience with handling user input, DOM manipulation, and method chaining. I got practice by performing statistical calculations like mean, median, mode, variance, and standard deviation. Practicing in https://www.freecodecamp.org.
